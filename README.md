@@ -9,12 +9,16 @@ npm install
 ```
 npm run serve
 or
-serve dist -l 8000
 ```
 
 ### Compiles and minifies for production
 ```
 npm run build
+```
+
+### Run Prod Server
+```
+serve dist -l 8000
 ```
 
 ### Run your tests
