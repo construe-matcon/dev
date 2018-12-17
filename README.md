@@ -5,10 +5,10 @@
 npm install
 ```
 
-### Compiles and hot-reloads for development
+<!-- ### Compiles and hot-reloads for development
 ```
 npm run serve
-```
+``` -->
 
 ### Compiles and minifies for production
 ```
@@ -20,7 +20,7 @@ npm run build
 serve dist -l 8000
 ```
 
-### Run your tests
+<!-- ### Run your tests
 ```
 npm run test
 ```
@@ -28,10 +28,7 @@ npm run test
 ### Lints and fixes files
 ```
 npm run lint
-```
+``` -->
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
-
-<!-- NPM INSTALL -->
-<!-- NPM INSTALL -->
